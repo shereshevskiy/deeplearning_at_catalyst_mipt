@@ -1,0 +1,6 @@
+numpy~=1.19.3
+pandas
+matplotlib
+jupyter
+jupyterlab
+torch~=1.7.0+cpu
